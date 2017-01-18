@@ -1,5 +1,0 @@
-MusixMatch API Key: d6c4651127df9a586bc7f645389b7227
-
-ToneAnalyzer Username: f7e02d6d-08e8-4a2c-8d1e-94416d05c40f
-
-ToneAnalyzer Password: IOnwJZqpJ8sg
