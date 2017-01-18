@@ -1,0 +1,11 @@
+Results of searches now show up in a scrollable, clickable list view
+
+Added Radio buttons and functionality to search by song, artist, album, or playlist (all with Spotify API)
+
+When a song is clicked on, the lyrics are found by a MusixMatch API call. The lyrics are then thrown IBM's Watson Tone Analyzer and the raw data is displayed on a new activity. (polished page being worked on)
+
+Search results are saved to the file, and history of searches can be viewed through the history button.
+
+GPS coordinates are saved with the search names in the file. (toast shows that GPS service starts)
+
+More error handling with search inputs for Spotify, MusixMatch and, Watson Tone Analyzer.
